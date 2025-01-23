@@ -20,7 +20,8 @@ Data Collection: Scripts for conducting EPR spectroscopy and collecting spectros
 Data Analysis: Python scripts for analyzing EPR signal intensity, dose estimation, and evaluating linearity.
 Visualization: Jupyter notebooks for generating plots and figures, including EPR spectra and dose-response curves.
 
-Analysis Workflow
+Analysis Workflow:
+
 Chemical Preparation:
 
 Ferumoxytol was diluted to specific concentrations in water or xylenol orange.
